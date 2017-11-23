@@ -1,0 +1,26 @@
+baseURL = "http://qtkmz.jp/"
+languageCode = "ja"
+title = "libqtkmz.so"
+theme = "minos"
+preserveTaxonomyNames = true
+paginate = 5
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+[[menu.main]]
+    name = "Subscribe"
+    url = "/index.xml"
+
