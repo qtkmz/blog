@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2017-11-23T19:49:41+09:00
+date: 1970-01-01T00:00:00+09:00
 ---
 
 - [GitHub](https://github.com/qtkmz)
