@@ -1,4 +1,5 @@
-baseURL = "http://qtkmz.jp/"
+#--baseURL = "http://qtkmz.jp/"
+baseURL = "https://qtkmz.ninja/"
 languageCode = "ja"
 title = "libqtkmz.so"
 theme = "minos"
