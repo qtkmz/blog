@@ -1,5 +1,5 @@
 ---
-title: "vagrant up で 「default: Warning: Remote connection disconnect. Retrying...」が出力し続け、失敗する"
+title: "vagrant up で 「default: Warning: Remote connection disconnect. Retrying...」が出力され続け、タイムアウトになる"
 date: 2018-05-15T21:12:34+09:00
 slug: ea944285ce773cbe9be046319f26f6792e4e7c0d
 ---
