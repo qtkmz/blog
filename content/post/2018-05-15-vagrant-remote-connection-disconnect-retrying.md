@@ -6,6 +6,13 @@ slug: ea944285ce773cbe9be046319f26f6792e4e7c0d
 
 Ubuntu 18.04 LTS がリリースされたので、新しく開発環境を用意しようと、久しぶりに Virtual Box や Vagrant を更新したら、ちょっとした問題が起きたので、状況ととりあえずの対応策を残しておく。
 
+## 環境
+
+- Vagrant 2.1.1
+- Windows 10 Home
+  - バージョン: 1709
+  - OSビルド: 16299.431
+
 ## 事象
 `vagrant up` を実行したときに `default: Warning: Remote connection disconnect. Retrying...` が出力され続け、タイムアウトを起こす。VM の起動は成功している。
 
