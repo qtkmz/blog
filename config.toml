@@ -5,6 +5,7 @@ title = "libqtkmz.so"
 theme = "minos"
 preserveTaxonomyNames = true
 paginate = 5
+googleAnalytics = "UA-119331052-1"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
