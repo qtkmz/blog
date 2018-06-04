@@ -1,7 +1,7 @@
 #--baseURL = "http://qtkmz.jp/"
 baseURL = "https://qtkmz.ninja/"
 languageCode = "ja"
-title = "libqtkmz.so"
+title = "qtkmz blog"
 theme = "minos"
 preserveTaxonomyNames = true
 paginate = 5
